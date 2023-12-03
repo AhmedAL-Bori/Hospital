@@ -1,0 +1,15 @@
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.deps.json
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfo.cs
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\refint\Hospital.ViewModels.dll
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\ref\Hospital.ViewModels.dll
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\CW\Desktop\MVC\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CopyComplete
